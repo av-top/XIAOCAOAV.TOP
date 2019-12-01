@@ -13,8 +13,7 @@ html, body {
   position: relative; }
   .content-wrap .content-inner {
     display: inline-block;
-    height: 530px;
-    position: absolute;
+        position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
