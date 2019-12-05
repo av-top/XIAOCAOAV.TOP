@@ -22,13 +22,11 @@ html, body {
     z-index: 3;
     text-align: center; }
     @media (max-width: 767px) {
-      .content-wrap .content-inner {
-        height: 418px; } }
+      .content-wrap .content-inner { } }
     .content-wrap .content-inner .content-block {
       display: inline-block;
       width: 1000px;
       height: 530px;
-      background-color: #EEEEEE;
       position: relative;
       margin: auto 0;
       text-align: center; }
